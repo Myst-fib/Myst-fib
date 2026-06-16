@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#9CB080;">Patrick</h1>
+<h1 style="color:#9CB080;">Patrick Cantero</h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9CB080&center=true&vCenter=true&width=435&lines=Frontend+Developer;Design+%E2%86%92+Code+%E2%86%92+Deploy" alt="Typing SVG" />
