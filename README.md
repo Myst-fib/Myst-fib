@@ -84,13 +84,15 @@ Currently building full-stack projects while sharpening UI craft.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Myst-fib&show_icons=true&title_color=9CB080&icon_color=618764&text_color=9CB080&bg_color=273338&border_color=2B5748&hide_border=false&rank_icon=github)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myst-fib&layout=compact&title_color=9CB080&text_color=9CB080&bg_color=273338&border_color=2B5748)
+![Stats](https://github-readme-stats.vercel.app/api?username=Myst-fib&show_icons=true&title_color=9CB080&icon_color=618764&text_color=9CB080&bg_color=273338&border_color=2B5748&hide_border=false)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myst-fib&layout=compact&title_color=9CB080&text_color=9CB080&bg_color=273338&border_color=2B5748&hide_border=false)
 
 </div>
 
