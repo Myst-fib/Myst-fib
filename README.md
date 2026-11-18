@@ -86,7 +86,7 @@ Currently going full-stack — mastering **Spring Boot** and **TypeScript** whil
       <h3>QA Portfolio</h3>
       <p>Software testing, QA documentation, and test cases</p>
       <code>Manual Testing · Test Cases · Bug Reporting</code><br><br>
-      <a href="YOUR_QA_PORTFOLIO_LINK">
+      <a href="https://github.com/Myst-fib/logpoint-qa-portfolio">
         <img src="https://img.shields.io/badge/Portfolio-618764?style=flat-square&logo=testinglibrary&logoColor=white" />
       </a>
     </td>
