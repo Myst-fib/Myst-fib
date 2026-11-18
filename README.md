@@ -51,11 +51,14 @@ Currently going full-stack — mastering **Spring Boot** and **TypeScript** whil
 
 <br>
 
+
+<br>
+
 ## 🗂️ Projects
 
 <table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>LogPoint</h3>
       <p>Full-stack logging and tracking app</p>
       <code>React · Spring Boot · MySQL</code><br><br>
@@ -63,7 +66,7 @@ Currently going full-stack — mastering **Spring Boot** and **TypeScript** whil
         <img src="https://img.shields.io/badge/Live-2B5748?style=flat-square&logo=vercel&logoColor=9CB080" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>ProLink</h3>
       <p>Professional networking frontend</p>
       <code>HTML · CSS · JavaScript</code><br><br>
@@ -71,12 +74,20 @@ Currently going full-stack — mastering **Spring Boot** and **TypeScript** whil
         <img src="https://img.shields.io/badge/Repo-618764?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Portfolio</h3>
       <p>Personal site — design to deployment</p>
       <code>React · Vite · Tailwind</code><br><br>
       <a href="https://my-portfolio-vert-three-80.vercel.app/">
         <img src="https://img.shields.io/badge/Live-2B5748?style=flat-square&logo=vercel&logoColor=9CB080" />
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <h3>QA Portfolio</h3>
+      <p>Software testing, QA documentation, and test cases</p>
+      <code>Manual Testing · Test Cases · Bug Reporting</code><br><br>
+      <a href="YOUR_QA_PORTFOLIO_LINK">
+        <img src="https://img.shields.io/badge/Portfolio-618764?style=flat-square&logo=testinglibrary&logoColor=white" />
       </a>
     </td>
   </tr>
